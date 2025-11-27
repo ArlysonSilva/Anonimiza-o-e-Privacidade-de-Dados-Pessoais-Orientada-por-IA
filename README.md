@@ -26,7 +26,7 @@ O modelo atingiu alta eficácia na detecção de dados críticos, incluindo a ca
 | **Alto** (Nomes) | Generalização | ~40% (Limitação de vocabulário) |
 
 ## 🛠️ Como Executar
-O código principal está no arquivo `Codigo_Final_TCC.ipynb`. Ele pode ser executado diretamente no Google Colab ou Kaggle.
+O código principal está no arquivo `Codigo_Final.ipynb`. Ele pode ser executado diretamente no Google Colab ou Kaggle.
 
 ---
 *Trabalho apresentado à disciplina de Inteligência Artificial I - Prof. Renato Luciano Cagnin.*
