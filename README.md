@@ -26,7 +26,16 @@ O modelo atingiu alta eficácia na detecção de dados críticos, incluindo a ca
 | **Alto** (Nomes) | Generalização | ~50% (Limitação de vocabulário) |
 
 ## 🛠️ Como Executar
-O código principal está no arquivo `Codigo_Final.ipynb`. Ele pode ser executado diretamente no Google Colab ou Kaggle.
+
+O código fonte completo está no arquivo `projetinho-de-ia.ipynb`.
+
+Para reproduzir os resultados, siga estes passos:
+
+1. **Baixe o arquivo** `projetinho-de-ia.ipynb` deste repositório.
+2. Acesse o **[Kaggle](https://www.kaggle.com/)** ou **[Google Colab](https://colab.research.google.com/)**.
+3. Faça o **Upload** do notebook.
+4. **Importante:** Ative a aceleração por **GPU T4** nas configurações da sessão (o treinamento do modelo T5 exige GPU).
+5. Execute as células sequencialmente (`Run All`).
 
 ---
 *Trabalho apresentado à disciplina de Inteligência Artificial I - Prof. Renato Luciano Cagnin.*
