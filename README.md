@@ -21,9 +21,9 @@ O modelo atingiu alta eficácia na detecção de dados críticos, incluindo a ca
 
 | Categoria | Ação | Taxa de Sucesso (Estimada) |
 | :--- | :--- | :--- |
-| **Crítico** (CPF/Senha) | Supressão | ~80% |
-| **Baixo** (Contexto) | Manutenção | ~85% |
-| **Alto** (Nomes) | Generalização | ~40% (Limitação de vocabulário) |
+| **Crítico** (CPF/Senha) | Supressão | ~62.5% |
+| **Baixo** (Contexto) | Manutenção | ~71.4% |
+| **Alto** (Nomes) | Generalização | ~50% (Limitação de vocabulário) |
 
 ## 🛠️ Como Executar
 O código principal está no arquivo `Codigo_Final.ipynb`. Ele pode ser executado diretamente no Google Colab ou Kaggle.
